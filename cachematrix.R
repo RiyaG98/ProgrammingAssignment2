@@ -1,6 +1,5 @@
 ## Riyanshi Gupta - Programming Assignment-2
-## Put comments here that give an overall description of what your
-## functions do
+## The following functions are used to create a special object that stores a matrix and caches its inverse.
 
 ## This function creates a special “matrix” object that can cache its inverse.
 
